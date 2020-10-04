@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beckbagdemo/static/css/main.660b53ba.chunk.css",
+    "main.js": "/beckbagdemo/static/js/main.1658a577.chunk.js",
+    "main.js.map": "/beckbagdemo/static/js/main.1658a577.chunk.js.map",
+    "runtime-main.js": "/beckbagdemo/static/js/runtime-main.0a66455e.js",
+    "runtime-main.js.map": "/beckbagdemo/static/js/runtime-main.0a66455e.js.map",
+    "static/js/2.e001f995.chunk.js": "/beckbagdemo/static/js/2.e001f995.chunk.js",
+    "static/js/2.e001f995.chunk.js.map": "/beckbagdemo/static/js/2.e001f995.chunk.js.map",
+    "index.html": "/beckbagdemo/index.html",
+    "precache-manifest.e966e24bbc6e951fa065e2dc178babd1.js": "/beckbagdemo/precache-manifest.e966e24bbc6e951fa065e2dc178babd1.js",
+    "service-worker.js": "/beckbagdemo/service-worker.js",
+    "static/css/main.660b53ba.chunk.css.map": "/beckbagdemo/static/css/main.660b53ba.chunk.css.map",
+    "static/js/2.e001f995.chunk.js.LICENSE.txt": "/beckbagdemo/static/js/2.e001f995.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/beckbagdemo/static/media/GT-Walsheim-Pro-Condensed-Regular.d3e9b49b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a66455e.js",
+    "static/js/2.e001f995.chunk.js",
+    "static/css/main.660b53ba.chunk.css",
+    "static/js/main.1658a577.chunk.js"
+  ]
+}
