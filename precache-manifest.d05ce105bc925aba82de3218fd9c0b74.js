@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6b53b9337f383e18ce59fdc0407ad5b",
+    "revision": "f16889d77b7621ad55c4122659b25e8b",
     "url": "/index.html"
   },
   {
-    "revision": "5446425e10a7efb245c9",
-    "url": "/static/css/main.3e065a93.chunk.css"
+    "revision": "9f5a5de95c5aff629fe1",
+    "url": "/static/css/2.8dbe6964.chunk.css"
   },
   {
-    "revision": "6f3920c054040e54c2b1",
-    "url": "/static/js/2.f062e194.chunk.js"
+    "revision": "1b32a85bdd7b585a4ae1",
+    "url": "/static/css/main.5e627012.chunk.css"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/static/js/2.f062e194.chunk.js.LICENSE.txt"
+    "revision": "9f5a5de95c5aff629fe1",
+    "url": "/static/js/2.ad2adc42.chunk.js"
   },
   {
-    "revision": "5446425e10a7efb245c9",
-    "url": "/static/js/main.79e2ac30.chunk.js"
+    "revision": "62f5de1a561ffce7e39aef745f889ab0",
+    "url": "/static/js/2.ad2adc42.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "1b32a85bdd7b585a4ae1",
+    "url": "/static/js/main.8ab4132b.chunk.js"
   },
   {
     "revision": "90929d1166a142b388d8",
@@ -34,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3e9b49b94bc3e9715a2331decebf96a",
     "url": "/static/media/GT-Walsheim-Pro-Condensed-Regular.d3e9b49b.woff2"
+  },
+  {
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/static/media/logo.5d5d9eef.svg"
   }
 ]);
